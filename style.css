@@ -28,7 +28,7 @@
     .navbar{
         display: flex;
         align-items: center;
-        justify-content: space-around;
+        justify-content: space-between;
         background-color: #fff;
     }
     .navbar__brand{
@@ -63,6 +63,10 @@
     .hero__text{
         font-size: 30px;
         margin: 20px 0;
+    }
+    .bihar__text{
+         font-size: 30px;
+         margin: 20px;
     }
     .hero__container{
         margin-top: 20px;
