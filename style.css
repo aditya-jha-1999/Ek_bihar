@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
  body{
-    font-family: 'Lobster', cursive;
+    font-family: 'Patrick Hand', cursive;
     background-color: #ebf2ff;
     }
      .container{
@@ -64,10 +64,7 @@
         font-size: 30px;
         margin: 20px 0;
     }
-    .bihar__text{
-         font-size: 30px;
-         margin: 20px;
-    }
+    
     .hero__container{
         margin-top: 20px;
     }
@@ -134,9 +131,9 @@
                 justify-content: center;
                 background-image: linear-gradient(
                   to right,
-                  #ff512f 0%,
-                  #dd2476 51%,
-                  #ff512f 100%
+                  #ff2fe3 0%,
+                  #2499dd 51%,
+                  #2f3dff 100%
                 );
               }
               
@@ -192,9 +189,9 @@
         height: 100%;
         background-image: linear-gradient(
         to right,
-        #ff512f 0%,
-        #dd2476 51%,
-        #ff512f 100%
+        #f1f5f4 0%,
+        #2446dd 51%,
+        #f8f4f8 100%
     );
     transform: skewY(15deg);
     z-index: -3 ;
